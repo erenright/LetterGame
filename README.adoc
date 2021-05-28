@@ -1,0 +1,15 @@
+Letter Game
+===========
+
+== Description
+
+Simple game inspired by a child mashing on a keyboard.  A single letter
+is displayed, and pressing the key corresponding to that letter causes
+a new letter to be displayed.
+
+The goal is to get the child to look for a specific key on the keyboard.
+
+== TODO
+
+- scale the displayed letter along with the window should the window be
+  resized
